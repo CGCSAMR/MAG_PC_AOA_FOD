@@ -262,7 +262,7 @@ $EndComp
 Text GLabel 2050 5500 3    50   Input ~ 0
 PIC_SDA
 Text GLabel 2050 5200 1    50   Input ~ 0
-PIC_3V3
+PIC_3V3J
 $Comp
 L Device:R R6
 U 1 1 610C09BB
@@ -277,9 +277,9 @@ $EndComp
 Text GLabel 2300 5500 3    50   Input ~ 0
 PIC_SCL
 Text GLabel 2300 5200 1    50   Input ~ 0
-PIC_3V3
+PIC_3V3J
 Text GLabel 4900 4600 2    50   Input ~ 0
-PIC_3V3
+PIC_3V3J
 Text GLabel 4900 4800 2    50   Input ~ 0
 PIC_SCL
 Text GLabel 4900 4700 2    50   Input ~ 0
@@ -360,7 +360,7 @@ $EndComp
 Text GLabel 5250 5600 1    50   Input ~ 0
 SAT_3V3
 Text GLabel 5750 5600 1    50   Input ~ 0
-PIC_3V3
+PIC_3V3J
 Text GLabel 5250 5900 3    50   Input ~ 0
 GND
 Text GLabel 5750 5900 3    50   Input ~ 0
