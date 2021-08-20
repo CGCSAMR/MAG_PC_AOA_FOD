@@ -674,7 +674,7 @@ Text GLabel 7600 2000 0    50   Input ~ 0
 FOD_EN
 Text GLabel 4500 6600 0    50   Input ~ 0
 FOD_EN
-Text GLabel 7600 2100 0    50   Input ~ 0
+Text GLabel 7600 2800 0    50   Input ~ 0
 MAG_EN
 Text GLabel 3000 6600 0    50   Input ~ 0
 MAG_EN
@@ -760,4 +760,8 @@ Text Notes 7450 7250 0    79   ~ 0
 Raspberry Pi & PIC16\n
 Text Notes 7350 7500 0    79   ~ 0
 Raspberry Pi & PIC 16
+Text GLabel 7600 2100 0    50   Input ~ 0
+FOD_CC
+Text GLabel 7600 1900 0    50   Input ~ 0
+FOD_DPL
 $EndSCHEMATC

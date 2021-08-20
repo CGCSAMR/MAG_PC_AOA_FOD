@@ -15,43 +15,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L AD7904:AD7904BRUZ-REEL7 U6
-U 1 1 61184656
-P 2000 950
-F 0 "U6" H 2600 1215 50  0000 C CNN
-F 1 "AD7904BRUZ-REEL7" H 2600 1124 50  0000 C CNN
-F 2 "Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm" H 2000 1350 50  0001 L CNN
-F 3 "http://www.analog.com/static/imported-files/data_sheets/AD7904_7914_7924.pdf" H 2000 1450 50  0001 L CNN
-F 4 "Yes" H 2000 1550 50  0001 L CNN "Automotive Qualified"
-F 5 "4" H 2000 1650 50  0001 L CNN "Channels"
-F 6 "MO-153-AB" H 2000 1750 50  0001 L CNN "Code  JEDEC"
-F 7 "Manufacturer URL" H 2000 1850 50  0001 L CNN "Component Link 1 Description"
-F 8 "http://www.analog.com/en/index.html" H 2000 1950 50  0001 L CNN "Component Link 1 URL"
-F 9 "Package Specification" H 2000 2050 50  0001 L CNN "Component Link 3 Description"
-F 10 "http://www.analog.com/static/imported-files/packages/36244347913743854010197452789RU16.pdf" H 2000 2150 50  0001 L CNN "Component Link 3 URL"
-F 11 "Product URL" H 2000 2250 50  0001 L CNN "Component Link 4 Description"
-F 12 "http://www.analog.com/en/analog-to-digital-converters/ad-converters/ad7904/products/product.html" H 2000 2350 50  0001 L CNN "Component Link 4 URL"
-F 13 "Rev.B" H 2000 2450 50  0001 L CNN "Datasheet Version"
-F 14 "Ser, SPI" H 2000 2550 50  0001 L CNN "Interface"
-F 15 "Surface Mount" H 2000 2650 50  0001 L CNN "Mounting Technology"
-F 16 "16-Lead Thin Shrink Small Outline Package [TSSOP]" H 2000 2750 50  0001 L CNN "Package Description"
-F 17 "Nov-2002" H 2000 2850 50  0001 L CNN "Package Version"
-F 18 "Reel" H 2000 2950 50  0001 L CNN "Packing"
-F 19 "8" H 2000 3050 50  0001 L CNN "Resolution Bits"
-F 20 "1M" H 2000 3150 50  0001 L CNN "Throughput Rate SPS"
-F 21 "IC" H 2000 3250 50  0001 L CNN "category"
-F 22 "2905696" H 2000 3350 50  0001 L CNN "ciiva ids"
-F 23 "29df41563031905c" H 2000 3450 50  0001 L CNN "library id"
-F 24 "Analog Devices" H 2000 3550 50  0001 L CNN "manufacturer"
-F 25 "RU-16" H 2000 3650 50  0001 L CNN "package"
-F 26 "1387014619" H 2000 3750 50  0001 L CNN "release date"
-F 27 "Yes" H 2000 3850 50  0001 L CNN "rohs"
-F 28 "55669ED1-19F5-4296-9EBC-F9B59F159340" H 2000 3950 50  0001 L CNN "vault revision"
-F 29 "yes" H 2000 4050 50  0001 L CNN "imported"
-	1    2000 950 
-	1    0    0    -1  
-$EndComp
-$Comp
 L AD7904:AD8302 U4
 U 1 1 61191D22
 P 6200 1950
@@ -685,25 +648,19 @@ Text GLabel 7300 5000 3    50   Input ~ 0
 VMAG2
 Text GLabel 7200 5400 1    50   Input ~ 0
 VPHS2
-Text GLabel 3100 950  2    50   Input ~ 0
+Text GLabel 3700 1400 0    50   Input ~ 0
 VMAG2
-Text GLabel 3100 1050 2    50   Input ~ 0
+Text GLabel 3700 1300 0    50   Input ~ 0
 VPHS2
-Text GLabel 3100 1550 2    50   Input ~ 0
+Text GLabel 3700 1200 0    50   Input ~ 0
 GND
-Text GLabel 3100 1650 2    50   Input ~ 0
-GND
-Text GLabel 3100 1750 2    50   Input ~ 0
-GND
-Text GLabel 3100 1850 2    50   Input ~ 0
-GND
-Text GLabel 2100 950  0    50   Input ~ 0
+Text GLabel 4300 1000 2    50   Input ~ 0
 AOA_CLK
-Text GLabel 2100 1050 0    50   Input ~ 0
+Text GLabel 4300 1200 2    50   Input ~ 0
 AOA_MOSI
-Text GLabel 2100 1150 0    50   Input ~ 0
+Text GLabel 4300 1100 2    50   Input ~ 0
 AOA_MISO
-Text GLabel 2100 1250 0    50   Input ~ 0
+Text GLabel 3700 1000 0    50   Input ~ 0
 AOA_SS
 Text GLabel 2850 3450 2    50   Input ~ 0
 AOA_5V
@@ -816,39 +773,10 @@ F 3 "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7
 	1    2450 3550
 	1    0    0    -1  
 $EndComp
-Text GLabel 3100 1150 2    50   Input ~ 0
+Text GLabel 4300 1300 2    50   Input ~ 0
 VMAG1
-Text GLabel 3100 1250 2    50   Input ~ 0
+Text GLabel 4300 1400 2    50   Input ~ 0
 VPHS1
-$Comp
-L Device:R R14
-U 1 1 61119E55
-P 1500 1600
-F 0 "R14" H 1570 1646 50  0000 L CNN
-F 1 "R" H 1570 1555 50  0000 L CNN
-F 2 "Resistors_SMD:R_0402" V 1430 1600 50  0001 C CNN
-F 3 "~" H 1500 1600 50  0001 C CNN
-	1    1500 1600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R12
-U 1 1 6111A5A2
-P 1350 1450
-F 0 "R12" V 1143 1450 50  0000 C CNN
-F 1 "R" V 1234 1450 50  0000 C CNN
-F 2 "Resistors_SMD:R_0402" V 1280 1450 50  0001 C CNN
-F 3 "~" H 1350 1450 50  0001 C CNN
-	1    1350 1450
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	2100 1450 1500 1450
-Connection ~ 1500 1450
-Text GLabel 1500 1750 3    50   Input ~ 0
-GND
-Text GLabel 1200 1450 0    50   Input ~ 0
-AOA_5V
 Text GLabel 5250 4250 1    50   Input ~ 0
 AOA_5V
 Wire Wire Line
@@ -883,63 +811,16 @@ F 3 "~" H 2150 2500 50  0001 C CNN
 	1    2150 2500
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:C C28
-U 1 1 610D8650
-P 2550 2500
-F 0 "C28" H 2665 2546 50  0000 L CNN
-F 1 "C" H 2665 2455 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0402" H 2588 2350 50  0001 C CNN
-F 3 "~" H 2550 2500 50  0001 C CNN
-	1    2550 2500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C C29
-U 1 1 610D884F
-P 2950 2500
-F 0 "C29" H 3065 2546 50  0000 L CNN
-F 1 "C" H 3065 2455 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0402" H 2988 2350 50  0001 C CNN
-F 3 "~" H 2950 2500 50  0001 C CNN
-	1    2950 2500
-	1    0    0    -1  
-$EndComp
-Text GLabel 2950 2350 1    50   Input ~ 0
-AOA_3V3
-Text GLabel 2550 2350 1    50   Input ~ 0
-AOA_3V3
 Text GLabel 2150 2350 1    50   Input ~ 0
 AOA_5V
 Text GLabel 1750 2350 1    50   Input ~ 0
 AOA_5V
-Text GLabel 2950 2650 2    50   Input ~ 0
-GND
-Text GLabel 2550 2650 2    50   Input ~ 0
-GND
 Text GLabel 2150 2650 2    50   Input ~ 0
 GND
 Text GLabel 1750 2650 2    50   Input ~ 0
 GND
-Text GLabel 2100 1650 0    50   Input ~ 0
-AOA_3V3
-Text GLabel 2100 1750 0    50   Input ~ 0
+Text GLabel 3700 1100 0    50   Input ~ 0
 AOA_5V
-Text GLabel 2100 1850 0    50   Input ~ 0
-AOA_5V
-$Comp
-L Device:C C30
-U 1 1 610DEB89
-P 1500 1300
-F 0 "C30" H 1615 1346 50  0000 L CNN
-F 1 "C" H 1615 1255 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0402" H 1538 1150 50  0001 C CNN
-F 3 "~" H 1500 1300 50  0001 C CNN
-	1    1500 1300
-	1    0    0    -1  
-$EndComp
-Text GLabel 1500 1150 1    50   Input ~ 0
-GND
 $Comp
 L Device:C C?
 U 1 1 6112BE21
@@ -984,4 +865,15 @@ Text Notes 8250 7650 0    79   ~ 0
 August 12 th, 2021
 Text Notes 10600 7650 0    79   ~ 0
 A
+$Comp
+L Analog_ADC:ADC084S051 U19
+U 1 1 611EE0DA
+P 4000 850
+F 0 "U19" H 4000 1031 79  0000 C CNN
+F 1 "ADC084S051" H 4000 896 79  0000 C CNN
+F 2 "Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm" H 4000 850 79  0001 C CNN
+F 3 "" H 4000 850 79  0001 C CNN
+	1    4000 850 
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

@@ -38,7 +38,7 @@ FOD_MOSI
 Text GLabel 10300 2550 0    50   Input ~ 0
 GND
 Text GLabel 10300 2450 0    50   Input ~ 0
-FOD_VAUX
+FOD_3V3
 Text GLabel 10300 2350 0    50   Input ~ 0
 FOD_DPL
 Text GLabel 10300 2250 0    50   Input ~ 0
