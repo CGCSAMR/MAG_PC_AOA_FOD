@@ -1,4 +1,4 @@
-258663171392040
+265178860926645
 AD7904
 Analog_Devices-AD7904BRUZ-REEL7-Level_A
 
@@ -42153,6 +42153,34 @@ Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring,
 0
 0
 0
+Samtec
+FTSH-105-01-L-DV-K
+Arm JTAG SMD connector
+JTAG ARM SMD connector
+0
+10
+10
+Samtec
+QTH-030-01-L-D-A
+Samtec high speed female 2x30 QTH connector
+Samtec QTH 30 0.5mm pitch
+0
+66
+61
+Samtec
+SAMTEC_QRF8-026-01-L-RA-GP
+
+
+0
+66
+56
+Samtec
+SAMTEC_QRM8-026-02.0-L-D-A-GP
+
+
+0
+57
+56
 Shielding_Cabinets
 Laird_Technologies_97-2002_25.40x25.40mm
 

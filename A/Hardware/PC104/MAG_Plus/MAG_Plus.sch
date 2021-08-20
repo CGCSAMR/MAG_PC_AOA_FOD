@@ -4,7 +4,7 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 4
+Sheet 1 5
 Title ""
 Date ""
 Rev ""
@@ -764,4 +764,10 @@ Text GLabel 7600 2100 0    50   Input ~ 0
 FOD_CC
 Text GLabel 7600 1900 0    50   Input ~ 0
 FOD_DPL
+$Sheet
+S 8700 6300 500  150 
+U 612008B4
+F0 "LPS" 50
+F1 "LPS.sch" 50
+$EndSheet
 $EndSCHEMATC
