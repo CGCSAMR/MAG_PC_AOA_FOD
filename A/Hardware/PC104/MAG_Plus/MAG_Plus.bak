@@ -770,4 +770,6 @@ U 612008B4
 F0 "LPS" 50
 F1 "LPS.sch" 50
 $EndSheet
+Text GLabel 7600 1700 0    50   Input ~ 0
+FOD_STS
 $EndSCHEMATC

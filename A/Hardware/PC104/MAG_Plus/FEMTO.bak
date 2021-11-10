@@ -243,4 +243,19 @@ Text Notes 8200 7650 0    79   ~ 0
 August 12 th, 2021
 Text Notes 10600 7650 0    79   ~ 0
 A
+$Comp
+L Jumper:Jumper_2_Open JP33
+U 1 1 6179DF88
+P 8800 4250
+F 0 "JP33" H 8800 4485 50  0000 C CNN
+F 1 "Jumper_2_Open" H 8800 4394 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 8800 4250 50  0001 C CNN
+F 3 "~" H 8800 4250 50  0001 C CNN
+	1    8800 4250
+	1    0    0    -1  
+$EndComp
+Text GLabel 9000 4250 2    50   Input ~ 0
+FOD_SDA
+Text GLabel 8600 4250 0    50   Input ~ 0
+FOD_STS
 $EndSCHEMATC
