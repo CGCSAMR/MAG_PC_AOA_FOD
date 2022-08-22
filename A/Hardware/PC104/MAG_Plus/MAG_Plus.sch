@@ -772,4 +772,10 @@ F1 "LPS.sch" 50
 $EndSheet
 Text GLabel 7600 1700 0    50   Input ~ 0
 FOD_STS
+Text GLabel 3950 2600 0    50   Input ~ 0
+GND
+Text GLabel 5500 2600 2    50   Input ~ 0
+GND
+Text GLabel 5500 2700 2    50   Input ~ 0
+GND
 $EndSCHEMATC

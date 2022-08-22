@@ -1,0 +1,928 @@
+EESchema Schematic File Version 4
+LIBS:MAG_Plus-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4950 2800 3050 2800
+Wire Wire Line
+	4450 8200 4450 8900
+Wire Wire Line
+	4450 8900 3050 8900
+Wire Wire Line
+	3050 8900 3050 2800
+Wire Wire Line
+	4950 3100 4950 2800
+Wire Wire Line
+	5050 5600 5050 6500
+Wire Wire Line
+	5050 5200 4850 5400
+Wire Wire Line
+	4850 5400 4850 6500
+Wire Wire Line
+	4950 5200 4650 5400
+Wire Wire Line
+	4650 5400 4650 6500
+Wire Wire Line
+	4850 5200 4450 5400
+Wire Wire Line
+	4450 5400 4450 6500
+Wire Wire Line
+	3850 4600 3850 5300
+Wire Wire Line
+	3850 5300 4250 5300
+Wire Wire Line
+	4250 5300 4250 6500
+Wire Wire Line
+	4050 6500 4050 5400
+Wire Wire Line
+	4050 5400 3750 5400
+Wire Wire Line
+	3750 5400 3750 4500
+Wire Wire Line
+	3750 4500 3850 4500
+Wire Wire Line
+	3850 4400 3650 4400
+Wire Wire Line
+	3650 4400 3650 5600
+Wire Wire Line
+	3650 5600 3850 5600
+Wire Wire Line
+	3850 5600 3850 6500
+Wire Wire Line
+	5050 5500 5150 5200
+Wire Wire Line
+	7950 2700 6650 2700
+Wire Wire Line
+	5250 6200 5250 6500
+Wire Wire Line
+	5250 3900 6550 3900
+Wire Wire Line
+	6550 3900 6550 2600
+Wire Wire Line
+	6550 2600 7950 2600
+Wire Wire Line
+	3850 3700 3450 3700
+Wire Wire Line
+	3450 3700 3450 6400
+Wire Wire Line
+	3450 6400 5450 6400
+Wire Wire Line
+	5450 6400 5450 6500
+Wire Wire Line
+	5250 8400 5250 8200
+Wire Wire Line
+	5150 8400 5050 8400
+Wire Wire Line
+	5050 8400 5050 8200
+Wire Wire Line
+	5650 3100 5650 3000
+Wire Wire Line
+	5650 3000 3250 3000
+Wire Wire Line
+	3250 3000 3250 8600
+Wire Wire Line
+	3250 8600 4850 8600
+Wire Wire Line
+	4850 8600 4850 8200
+Wire Wire Line
+	4850 3100 4850 2900
+Wire Wire Line
+	4850 2900 3150 2900
+Wire Wire Line
+	3150 2900 3150 9100
+Wire Wire Line
+	3150 9100 4650 9100
+Wire Wire Line
+	4650 9100 4650 8200
+Wire Wire Line
+	4250 8200 4250 8700
+Wire Wire Line
+	4250 8700 7050 8700
+Wire Wire Line
+	7050 8700 7050 4500
+Wire Wire Line
+	7050 4500 6950 4500
+Wire Wire Line
+	6950 3700 7150 3700
+Wire Wire Line
+	7150 3700 7150 8800
+Wire Wire Line
+	7150 8800 4050 8800
+Wire Wire Line
+	4050 8800 4050 8200
+Wire Wire Line
+	950  6900 650  6900
+Wire Wire Line
+	650  6900 650  8400
+Wire Wire Line
+	650  8400 3650 8400
+Wire Wire Line
+	3650 8400 3650 8200
+Wire Wire Line
+	950  7000 550  7000
+Wire Wire Line
+	550  7000 550  8500
+Wire Wire Line
+	550  8500 3850 8500
+Wire Wire Line
+	3850 8500 3850 8200
+Wire Wire Line
+	6950 3800 7250 3800
+Wire Wire Line
+	7250 3800 7250 3700
+Wire Wire Line
+	7250 3700 7450 3700
+Wire Wire Line
+	7650 3700 7450 3700
+Wire Wire Line
+	7450 3900 6950 3900
+Wire Wire Line
+	7650 3900 7450 3900
+Wire Wire Line
+	3350 4200 3350 6800
+Wire Wire Line
+	3350 6800 3350 7000
+Wire Wire Line
+	3350 7000 5450 7000
+Wire Wire Line
+	5450 7000 5450 8200
+Wire Wire Line
+	950  6800 2150 6800
+Wire Wire Line
+	2150 6800 3350 6800
+Wire Wire Line
+	6950 4000 6450 4000
+Wire Wire Line
+	6450 4000 5950 4000
+Wire Wire Line
+	5950 4000 4950 4000
+Wire Wire Line
+	4950 4000 4950 4200
+Wire Wire Line
+	5950 4200 5950 4000
+Wire Wire Line
+	5450 8200 5650 8200
+Wire Wire Line
+	5650 8200 5650 8300
+Wire Wire Line
+	2150 6700 2150 6800
+Wire Wire Line
+	6450 4000 6450 2500
+Wire Wire Line
+	6450 2500 7950 2500
+Text Label 3850 4200 0    10   ~ 0
+GND
+Wire Wire Line
+	7950 3700 8050 3700
+Wire Wire Line
+	8050 3700 8050 3800
+Wire Wire Line
+	8050 3800 8050 3900
+Wire Wire Line
+	8050 3900 7950 3900
+Wire Wire Line
+	8050 3900 8050 4000
+Wire Wire Line
+	9550 4300 9350 4300
+Wire Wire Line
+	9350 4300 9350 3800
+Wire Wire Line
+	9350 3800 8050 3800
+Text Label 7950 3700 0    10   ~ 0
+GND
+Wire Wire Line
+	3750 2500 3750 2400
+Wire Wire Line
+	3750 2400 3850 2400
+Text Label 3750 2500 0    10   ~ 0
+GND
+Wire Wire Line
+	5450 3100 5450 2900
+Wire Wire Line
+	5450 2900 6350 2900
+Wire Wire Line
+	6350 2900 6350 800 
+Wire Wire Line
+	6350 800  5550 800 
+Wire Wire Line
+	5550 1000 6250 1000
+Wire Wire Line
+	6250 1000 6250 2800
+Wire Wire Line
+	6250 2800 5350 2800
+Wire Wire Line
+	5350 2800 5350 3100
+Wire Wire Line
+	5250 3100 5250 2700
+Wire Wire Line
+	5250 2700 6150 2700
+Wire Wire Line
+	6150 2700 6150 1200
+Wire Wire Line
+	6150 1200 5550 1200
+Wire Wire Line
+	5150 3100 5150 2600
+Wire Wire Line
+	5150 2600 6050 2600
+Wire Wire Line
+	6050 2600 6050 1400
+Wire Wire Line
+	6050 1400 5550 1400
+Wire Wire Line
+	3850 2500 5950 2500
+Wire Wire Line
+	5950 2500 5950 1600
+Wire Wire Line
+	5950 1600 5550 1600
+Wire Wire Line
+	5550 1800 5850 1800
+Wire Wire Line
+	5850 1800 5850 300 
+Wire Wire Line
+	5850 300  3050 300 
+Wire Wire Line
+	3050 300  3050 2700
+Wire Wire Line
+	3050 2700 3350 2700
+Wire Wire Line
+	3350 2700 3350 3900
+Wire Wire Line
+	3350 3900 3850 3900
+Wire Wire Line
+	3850 4000 2950 4000
+Wire Wire Line
+	2950 4000 2950 1900
+Wire Wire Line
+	2950 1900 4750 1900
+Wire Wire Line
+	4750 1900 4750 2000
+Wire Wire Line
+	4750 2000 5550 2000
+Wire Wire Line
+	3850 4100 3650 4100
+Wire Wire Line
+	3650 4100 3650 2300
+Wire Wire Line
+	3650 2300 4750 2300
+Wire Wire Line
+	4750 2300 4750 2100
+Wire Wire Line
+	4750 2100 5550 2100
+Wire Wire Line
+	5550 2100 5550 2200
+Wire Wire Line
+	6950 4600 7350 4600
+Wire Wire Line
+	7350 4600 7350 2400
+Wire Wire Line
+	7350 2400 5550 2400
+Wire Wire Line
+	7450 4600 7350 4600
+Wire Wire Line
+	2350 2000 3850 2000
+Wire Wire Line
+	3850 2200 3750 2200
+Wire Wire Line
+	3750 2200 3750 2100
+Wire Wire Line
+	3750 2100 2350 2100
+Wire Wire Line
+	5750 3100 5750 1900
+Wire Wire Line
+	5750 1900 4850 1900
+Wire Wire Line
+	5750 5200 8350 5200
+Wire Wire Line
+	8350 5200 8350 100 
+Wire Wire Line
+	8350 100  3150 100 
+Wire Wire Line
+	3150 100  3150 1600
+Wire Wire Line
+	3150 1600 3850 1600
+Wire Wire Line
+	3850 1400 3250 1400
+Wire Wire Line
+	3250 1400 3250 0   
+Wire Wire Line
+	3250 0    8450 0   
+Wire Wire Line
+	8450 0    8450 5400
+Wire Wire Line
+	8450 5400 5650 5400
+Wire Wire Line
+	5650 5400 5650 5200
+Wire Wire Line
+	5550 5200 5550 5500
+Wire Wire Line
+	5550 5500 8550 5500
+Wire Wire Line
+	8550 5500 8550 500 
+Wire Wire Line
+	8550 500  3350 500 
+Wire Wire Line
+	3350 500  3350 1200
+Wire Wire Line
+	3350 1200 3850 1200
+Wire Wire Line
+	3850 1000 3450 1000
+Wire Wire Line
+	3450 1000 3450 -100
+Wire Wire Line
+	3450 -100 8650 -100
+Wire Wire Line
+	8650 -100 8650 5600
+Wire Wire Line
+	8650 5600 5450 5600
+Wire Wire Line
+	5450 5600 5450 5200
+Wire Wire Line
+	3850 600  2850 600 
+Wire Wire Line
+	2850 600  2850 7100
+Wire Wire Line
+	2850 7100 950  7100
+Wire Wire Line
+	950  7200 2750 7200
+Wire Wire Line
+	2750 7200 2750 800 
+Wire Wire Line
+	2750 800  3850 800 
+Wire Wire Line
+	5350 5300 5350 5200
+Wire Wire Line
+	5350 5300 6150 5300
+Wire Wire Line
+	6150 5300 6150 3100
+Wire Wire Line
+	6150 3100 7150 3100
+Wire Wire Line
+	7150 3100 7150 2300
+Wire Wire Line
+	7150 2300 7950 2300
+Wire Wire Line
+	6950 4400 9250 4400
+Wire Wire Line
+	9250 4400 9250 4600
+Wire Wire Line
+	6950 4300 7250 4300
+Wire Wire Line
+	7250 4300 7250 4200
+Wire Wire Line
+	7250 4200 9150 4200
+Wire Wire Line
+	9150 4200 9150 4700
+Wire Wire Line
+	6950 4200 7050 4200
+Wire Wire Line
+	7050 4200 7050 4000
+Wire Wire Line
+	9050 4000 9050 4800
+Wire Wire Line
+	5550 3100 5550 3400
+Wire Wire Line
+	5550 3400 9850 3400
+Wire Wire Line
+	9850 3400 9850 4400
+Wire Wire Line
+	9850 4400 9550 4400
+Wire Wire Line
+	9550 4500 9950 4500
+Wire Wire Line
+	9950 4500 9950 3300
+Wire Wire Line
+	9950 3300 5050 3300
+Wire Wire Line
+	5050 3300 5050 3100
+Wire Wire Line
+	3550 4300 3550 5700
+Wire Wire Line
+	3550 5700 3650 5700
+Wire Wire Line
+	3650 5700 3650 6500
+Wire Wire Line
+	950  6700 650  6700
+Wire Wire Line
+	650  6700 650  5700
+Wire Wire Line
+	650  5700 2150 5700
+Wire Wire Line
+	2150 5700 3550 5700
+Wire Wire Line
+	4650 4300 5050 4300
+Wire Wire Line
+	5050 4300 5050 4100
+Wire Wire Line
+	5050 4100 6250 4100
+Wire Wire Line
+	2150 6400 2150 5700
+Wire Wire Line
+	7550 4100 7750 4100
+Wire Wire Line
+	7750 4100 7750 4300
+Wire Wire Line
+	7750 4300 8050 4300
+Wire Wire Line
+	8050 4300 8050 4600
+Wire Wire Line
+	8050 4600 7850 4600
+Wire Wire Line
+	4650 4300 4650 200 
+Wire Wire Line
+	4650 200  5650 200 
+Wire Wire Line
+	5650 200  5650 600 
+Wire Wire Line
+	5650 600  5550 600 
+Wire Wire Line
+	5350 5700 5350 5800
+Wire Wire Line
+	5350 5800 6250 5800
+Wire Wire Line
+	6250 5800 6250 4100
+Wire Wire Line
+	7550 4100 7550 2400
+Wire Wire Line
+	7550 2400 7950 2400
+$Comp
+L SMD_CONTADOR_2-eagle-import:SN74LV8154 CONTA1
+U 1 1 5668EF28
+P 4450 6900
+F 0 "CONTA1" H 4450 6900 50  0001 C CNN
+F 1 "74LV8154" H 4450 6900 50  0001 C CNN
+F 2 "SMD_CONTADOR_2:PW20_TSSOP" H 4450 6900 50  0001 C CNN
+F 3 "" H 4450 6900 50  0001 C CNN
+	1    4450 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:SN74LV8154 CONTB1
+U 1 1 BEC599EC
+P 5150 1400
+F 0 "CONTB1" H 5150 1400 50  0001 C CNN
+F 1 "74LV8154" H 5150 1400 50  0001 C CNN
+F 2 "SMD_CONTADOR_2:PW20_TSSOP" H 5150 1400 50  0001 C CNN
+F 3 "" H 5150 1400 50  0001 C CNN
+	1    5150 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:CRYSTALHC49S Q1
+U 1 1 267D97D1
+P 7450 3800
+F 0 "Q1" H 7550 3840 59  0000 L BNN
+F 1 "20MHz" H 7550 3700 59  0000 L BNN
+F 2 "SMD_CONTADOR_2:HC49_S" H 7450 3800 50  0001 C CNN
+F 3 "" H 7450 3800 50  0001 C CNN
+	1    7450 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:C-EUC0805 C7
+U 1 1 7EE2FFE3
+P 7750 3700
+F 0 "C7" H 7810 3715 59  0000 L BNN
+F 1 "22pF" H 7810 3515 59  0000 L BNN
+F 2 "SMD_CONTADOR_2:C0805" H 7750 3700 50  0001 C CNN
+F 3 "" H 7750 3700 50  0001 C CNN
+	1    7750 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:C-EUC0805 C8
+U 1 1 1A664D53
+P 7750 3900
+F 0 "C8" H 7810 3915 59  0000 L BNN
+F 1 "22pF" H 7810 3715 59  0000 L BNN
+F 2 "SMD_CONTADOR_2:C0805" H 7750 3900 50  0001 C CNN
+F 3 "" H 7750 3900 50  0001 C CNN
+	1    7750 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:PINHD-1X6 ICSP1
+U 1 1 2F760F01
+P 8050 2600
+F 0 "ICSP1" H 7800 3025 59  0000 L BNN
+F 1 "PINHD-1X6" H 7800 2200 59  0000 L BNN
+F 2 "Connectors_Molex:Molex_PicoBlade_53047-0610_06x1.25mm_Straight" H 8050 2600 50  0001 C CNN
+F 3 "" H 8050 2600 50  0001 C CNN
+	1    8050 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:PINHD-1X6 '1
+U 1 1 F26E0B83
+P 1050 7000
+F 0 "'1" H 800 7425 59  0000 L BNN
+F 1 "PINHD-1X6" H 800 6600 59  0000 L BNN
+F 2 "Connectors_Molex:Molex_PicoBlade_53047-0610_06x1.25mm_Straight" H 1050 7000 50  0001 C CNN
+F 3 "" H 1050 7000 50  0001 C CNN
+	1    1050 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:PINHD-1X6 ''1
+U 1 1 1BE782D5
+P 9650 4600
+F 0 "''1" H 9400 5025 59  0000 L BNN
+F 1 "PINHD-1X6" H 9400 4200 59  0000 L BNN
+F 2 "Connectors_Molex:Molex_PicoBlade_53047-0610_06x1.25mm_Straight" H 9650 4600 50  0001 C CNN
+F 3 "" H 9650 4600 50  0001 C CNN
+	1    9650 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:R-US_M1206 R18
+U 1 1 36789A2F
+P 5350 5500
+F 0 "R18" H 5200 5559 59  0000 L BNN
+F 1 "5k6" H 5200 5370 59  0000 L BNN
+F 2 "SMD_CONTADOR_2:M1206" H 5350 5500 50  0001 C CNN
+F 3 "" H 5350 5500 50  0001 C CNN
+	1    5350 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:R-US_M1206 R19
+U 1 1 B13F4994
+P 7650 4600
+F 0 "R19" H 7500 4659 59  0000 L BNN
+F 1 "10k" H 7500 4470 59  0000 L BNN
+F 2 "SMD_CONTADOR_2:M1206" H 7650 4600 50  0001 C CNN
+F 3 "" H 7650 4600 50  0001 C CNN
+	1    7650 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:PINHD-1X2 PGC1
+U 1 1 23E184A3
+P 4950 5500
+F 0 "PGC1" H 4700 5725 59  0000 L BNN
+F 1 "PINHD-1X2" H 4700 5300 59  0000 L BNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 4950 5500 50  0001 C CNN
+F 3 "" H 4950 5500 50  0001 C CNN
+	1    4950 5500
+	-1   0    0    1   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:PINHD-1X2 PGD1
+U 1 1 40018A22
+P 5150 6100
+F 0 "PGD1" H 4900 6325 59  0000 L BNN
+F 1 "PINHD-1X2" H 4900 5900 59  0000 L BNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5150 6100 50  0001 C CNN
+F 3 "" H 5150 6100 50  0001 C CNN
+	1    5150 6100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:C-EUC1210 C4
+U 1 1 00CB58E1
+P 2150 6500
+F 0 "C4" H 2210 6515 59  0000 L BNN
+F 1 "C-EUC1210" H 2210 6315 59  0000 L BNN
+F 2 "SMD_CONTADOR_2:C1210" H 2150 6500 50  0001 C CNN
+F 3 "" H 2150 6500 50  0001 C CNN
+	1    2150 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:PINHD-1X2 32_BITS_A1
+U 1 1 CE13221B
+P 5150 8500
+F 0 "32_BITS_A1" H 4900 8725 59  0000 L BNN
+F 1 "PINHD-1X2" H 4900 8300 59  0000 L BNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5150 8500 50  0001 C CNN
+F 3 "" H 5150 8500 50  0001 C CNN
+	1    5150 8500
+	0    1    1    0   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:PINHD-1X2 32_BITS_B1
+U 1 1 0FF3D755
+P 2250 2000
+F 0 "32_BITS_B1" H 2000 2225 59  0000 L BNN
+F 1 "PINHD-1X2" H 2000 1800 59  0000 L BNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 2250 2000 50  0001 C CNN
+F 3 "" H 2250 2000 50  0001 C CNN
+	1    2250 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:GND #GND0101
+U 1 1 8DA2BB24
+P 8050 4100
+F 0 "#GND0101" H 8050 4100 50  0001 C CNN
+F 1 "GND" H 7950 4000 59  0000 L BNN
+F 2 "" H 8050 4100 50  0001 C CNN
+F 3 "" H 8050 4100 50  0001 C CNN
+	1    8050 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:GND #GND0102
+U 1 1 4877C9E2
+P 5650 8400
+F 0 "#GND0102" H 5650 8400 50  0001 C CNN
+F 1 "GND" H 5550 8300 59  0000 L BNN
+F 2 "" H 5650 8400 50  0001 C CNN
+F 3 "" H 5650 8400 50  0001 C CNN
+	1    5650 8400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:GND #GND0103
+U 1 1 21137572
+P 5950 4300
+F 0 "#GND0103" H 5950 4300 50  0001 C CNN
+F 1 "GND" H 5850 4200 59  0000 L BNN
+F 2 "" H 5950 4300 50  0001 C CNN
+F 3 "" H 5950 4300 50  0001 C CNN
+	1    5950 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMD_CONTADOR_2-eagle-import:GND #GND0104
+U 1 1 12C122FD
+P 3750 2600
+F 0 "#GND0104" H 3750 2600 50  0001 C CNN
+F 1 "GND" H 3650 2500 59  0000 L BNN
+F 2 "" H 3750 2600 50  0001 C CNN
+F 3 "" H 3750 2600 50  0001 C CNN
+	1    3750 2600
+	1    0    0    -1  
+$EndComp
+Text Notes 1150 7000 0    59   ~ 0
+A
+Text Notes 1150 7200 0    59   ~ 0
+B
+Text Notes 450  6700 0    59   ~ 0
+5V
+Text Notes 450  6800 0    59   ~ 0
+GND
+Connection ~ 2150 5700
+Connection ~ 2150 6800
+Connection ~ 3350 6800
+Connection ~ 3550 5700
+Connection ~ 4650 4300
+Connection ~ 5350 5300
+Connection ~ 5450 8200
+Connection ~ 5950 4000
+Connection ~ 6250 4100
+Connection ~ 6450 4000
+Connection ~ 7350 4600
+Connection ~ 7450 3700
+Connection ~ 7450 3900
+Connection ~ 7550 4100
+Connection ~ 8050 3800
+Connection ~ 8050 3900
+Wire Wire Line
+	3850 4300 3550 4300
+Wire Wire Line
+	3850 4300 4650 4300
+Connection ~ 3850 4300
+Wire Wire Line
+	3850 4200 3350 4200
+Wire Wire Line
+	4950 4200 3850 4200
+Connection ~ 3850 4200
+Wire Wire Line
+	6250 4100 6950 4100
+Wire Wire Line
+	6950 4100 7550 4100
+Connection ~ 6950 4100
+Wire Wire Line
+	5250 6100 5250 5200
+Wire Wire Line
+	5250 5200 5250 3900
+Connection ~ 5250 5200
+$Comp
+L SMD_CONTADOR_2-eagle-import:PIC16F1517_19PT PIC1
+U 1 1 8214D697
+P 5250 4100
+F 0 "PIC1" H 3950 5050 59  0000 L BNN
+F 1 "16F877A" H 3950 3000 59  0000 L BNN
+F 2 "SMD_CONTADOR_2:TQFP44" H 5250 4100 50  0001 C CNN
+F 3 "" H 5250 4100 50  0001 C CNN
+	1    5250 4100
+	1    0    0    -1  
+$EndComp
+Connection ~ 5150 5200
+Wire Wire Line
+	5150 4200 5150 5200
+Wire Wire Line
+	5150 4200 5600 4200
+Wire Wire Line
+	5600 4200 5600 4400
+Wire Wire Line
+	5600 4400 6650 4400
+Wire Wire Line
+	6650 2700 6650 4400
+Wire Wire Line
+	7050 4000 7850 4000
+Wire Wire Line
+	7850 4000 7850 4150
+Wire Wire Line
+	7850 4150 8950 4150
+Wire Wire Line
+	8950 4150 8950 4000
+Wire Wire Line
+	8950 4000 9050 4000
+Wire Wire Line
+	3850 3800 3750 3800
+Wire Wire Line
+	3750 3800 3750 2700
+Wire Wire Line
+	3750 2700 3850 2700
+Wire Wire Line
+	3850 2700 3850 2500
+Wire Wire Line
+	3850 1800 3850 1700
+Wire Wire Line
+	3850 1700 4850 1700
+Wire Wire Line
+	4850 1700 4850 1900
+Text Label 700  5700 0    50   ~ 0
+3V3
+Text Label 2850 600  0    50   ~ 0
+COMP1
+Text Label 2750 800  0    50   ~ 0
+COMP2
+Text Label 3650 8400 0    50   ~ 0
+COMP3
+Text Label 3850 8500 0    50   ~ 0
+COMP4
+Text GLabel 2750 800  0    50   Input ~ 0
+COMP2
+Text GLabel 2850 600  0    50   Input ~ 0
+COMP1
+Text GLabel 3650 8400 0    50   Input ~ 0
+COMP3
+Text GLabel 3850 8500 0    50   Input ~ 0
+COMP4
+Text Label 9850 4400 0    50   ~ 0
+SCL
+Text Label 9950 4500 0    50   ~ 0
+SDA
+Text Label 8800 4400 0    50   ~ 0
+E0
+Text Label 8800 4200 0    50   ~ 0
+E1
+Text Label 8800 4150 0    50   ~ 0
+E2
+$Comp
+L Jumper:Jumper_3_Open JP4
+U 1 1 61B9D802
+P 9250 5450
+F 0 "JP4" V 9296 5537 50  0000 L CNN
+F 1 "Jumper_3_Open" V 8900 5250 50  0000 L CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 9250 5450 50  0001 C CNN
+F 3 "~" H 9250 5450 50  0001 C CNN
+	1    9250 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Jumper:Jumper_3_Open JP5
+U 1 1 61B9F3A5
+P 9650 5450
+F 0 "JP5" V 9696 5537 50  0000 L CNN
+F 1 "Jumper_3_Open" V 9200 5050 50  0000 L CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 9650 5450 50  0001 C CNN
+F 3 "~" H 9650 5450 50  0001 C CNN
+	1    9650 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Jumper:Jumper_3_Open JP6
+U 1 1 61B9F97F
+P 10000 5450
+F 0 "JP6" V 10046 5537 50  0000 L CNN
+F 1 "Jumper_3_Open" V 9650 4900 50  0000 L CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 10000 5450 50  0001 C CNN
+F 3 "~" H 10000 5450 50  0001 C CNN
+	1    10000 5450
+	0    -1   -1   0   
+$EndComp
+Text GLabel 9250 4600 2    50   Input ~ 0
+E0
+Text GLabel 9150 4700 2    50   Input ~ 0
+E1
+Text GLabel 9050 4800 2    50   Input ~ 0
+E2
+Text Label 10000 5200 0    50   ~ 0
+3V3
+Text Label 9650 5200 0    50   ~ 0
+3V3
+Text Label 9250 5200 0    50   ~ 0
+3V3
+Text Label 10150 5450 0    50   ~ 0
+E0
+Text Label 9800 5450 0    50   ~ 0
+E1
+Text Label 9400 5450 0    50   ~ 0
+E2
+Text Label 9250 5700 0    50   ~ 0
+GND
+Text Label 9650 5700 0    50   ~ 0
+GND
+Text Label 10000 5700 0    50   ~ 0
+GND
+Text Label 9800 4600 0    50   ~ 0
+3V3
+Wire Wire Line
+	9800 4600 9550 4600
+Wire Wire Line
+	9550 4700 9850 4700
+Text GLabel 9850 4700 2    50   Input ~ 0
+5V0
+$Comp
+L Sensor_Temperature:MCP9804_MSOP U3
+U 1 1 61BD70F3
+P 8950 6600
+F 0 "U3" H 9394 6646 50  0000 L CNN
+F 1 "MCP9804_MSOP" H 9394 6555 50  0000 L CNN
+F 2 "Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm" H 7950 6100 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf" H 8700 7050 50  0001 C CNN
+	1    8950 6600
+	1    0    0    -1  
+$EndComp
+NoConn ~ 9350 6600
+Text Label 8950 7100 0    50   ~ 0
+GND
+Text Label 8950 6100 0    50   ~ 0
+3V3
+Text Label 8550 6300 2    50   ~ 0
+SDA
+Text Label 8550 6400 2    50   ~ 0
+SCL
+Text Label 8550 6700 2    50   ~ 0
+A0
+Text Label 8550 6800 2    50   ~ 0
+A1
+Text Label 8550 6900 2    50   ~ 0
+A2
+$Comp
+L Jumper:Jumper_3_Open JP7
+U 1 1 61BFA7D6
+P 10300 6500
+F 0 "JP7" V 10346 6587 50  0000 L CNN
+F 1 "Jumper_3_Open" V 9950 6300 50  0000 L CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 10300 6500 50  0001 C CNN
+F 3 "~" H 10300 6500 50  0001 C CNN
+	1    10300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Jumper:Jumper_3_Open JP8
+U 1 1 61BFA7E0
+P 10700 6500
+F 0 "JP8" V 10746 6587 50  0000 L CNN
+F 1 "Jumper_3_Open" V 10250 6100 50  0000 L CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 10700 6500 50  0001 C CNN
+F 3 "~" H 10700 6500 50  0001 C CNN
+	1    10700 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Jumper:Jumper_3_Open JP9
+U 1 1 61BFA7EA
+P 11050 6500
+F 0 "JP9" V 11096 6587 50  0000 L CNN
+F 1 "Jumper_3_Open" V 10700 5950 50  0000 L CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 11050 6500 50  0001 C CNN
+F 3 "~" H 11050 6500 50  0001 C CNN
+	1    11050 6500
+	0    -1   -1   0   
+$EndComp
+Text Label 11050 6250 0    50   ~ 0
+3V3
+Text Label 10700 6250 0    50   ~ 0
+3V3
+Text Label 10300 6250 0    50   ~ 0
+3V3
+Text Label 11200 6500 0    50   ~ 0
+A2
+Text Label 10850 6500 0    50   ~ 0
+A1
+Text Label 10450 6500 0    50   ~ 0
+A0
+Text Label 10300 6750 0    50   ~ 0
+GND
+Text Label 10700 6750 0    50   ~ 0
+GND
+Text Label 11050 6750 0    50   ~ 0
+GND
+$EndSCHEMATC

@@ -4,7 +4,7 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 5
+Sheet 1 6
 Title ""
 Date ""
 Rev ""
@@ -769,5 +769,11 @@ S 8700 6300 500  150
 U 612008B4
 F0 "LPS" 50
 F1 "LPS.sch" 50
+$EndSheet
+$Sheet
+S 10650 5950 500  150 
+U 61B06CFF
+F0 "PC" 50
+F1 "PC.sch" 50
 $EndSheet
 $EndSCHEMATC
